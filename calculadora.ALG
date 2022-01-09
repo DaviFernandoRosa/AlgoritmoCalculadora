@@ -1,16 +1,15 @@
 Algoritmo "semnome"
 //  
-//  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 15/11/2020
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
     n1, n2, resultado: real
     operacao: caracter
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
              Escreva("Digite o Primerio numero: ")
              Leia(n1)
              Escreva("Escolha operacao (- + / *):")
@@ -28,10 +27,10 @@ Inicio
                     caso "*"
                       resultado <- n1* n2
                     Outrocaso
-                      Escreval("Opção invalida")
+                      Escreval("OpÃ§Ã£o invalida")
 
              FimEscolha
-          Escreva ( "O resulado da operação é: ",resultado)
+          Escreva ( "O resulado da operaÃ§Ã£o Ã©: ",resultado)
 
 
 Fimalgoritmo
