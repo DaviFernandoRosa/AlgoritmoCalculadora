@@ -30,6 +30,7 @@ Inicio
                       Escreval("Opção invalida")
 
              FimEscolha
+             
           Escreva ( "O resulado da operação é: ",resultado)
 
 
